@@ -97,7 +97,7 @@ body {
 
 .hanja-circle {
   position: absolute;
-  top: 70px;
+  top: 0px;
   left: 40px;
   width: 420px;
   height: 420px;
@@ -107,7 +107,7 @@ body {
 
 .hanja-top {
   position: absolute;
-  top: 40px;
+  top: -40px;
   left: 60px;
   font-family: "Noto Serif KR", serif;
   font-size: 16rem;
